@@ -6,5 +6,8 @@
 }
 .card-deck .card {
   display: block;
-  flex-basis: 33.3%; /* change this value for each breakpoint*/
+  background-color: #66ccff;
+  margin: 9px;
+  padding: 0px 4px 0px 4px;
+  flex-basis: 31.5%; /* change this value for each breakpoint*/
 }
